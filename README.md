@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [Patika.dev](https://www.patika.dev.org/) 108. Mobil Oyun Bootcamp V Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [Patika.dev](https://www.patika.dev.org/) 108. Mobil Oyun Bootcamp V Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor..
 
 ![](https://i.hizliresim.com/fdzqvk5.PNG)
 
